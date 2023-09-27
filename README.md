@@ -24,7 +24,7 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 ### Program:
 ```
-Developed By   :RAMA E K LAKSHMI LEKSHMI
+Developed By   :RAMA E K LEKSHMI
 Register Number:212222240082
 ```
 
